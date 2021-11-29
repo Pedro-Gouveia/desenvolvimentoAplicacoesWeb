@@ -6,7 +6,7 @@ using System;
     {
         public static void Main(string[] args)
         {
-            string ex10()
+            void ex10()
             {
                 float totalHoras = 48;
                 return "Pode faltar a : " + totalHoras * .1 + " horas.";
